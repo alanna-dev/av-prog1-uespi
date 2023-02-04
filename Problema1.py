@@ -23,5 +23,3 @@ if n > 1:
     print('%')
 else:
     raise ValueError('Invalid value for N')
-
-    
